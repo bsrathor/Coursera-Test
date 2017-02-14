@@ -19,7 +19,7 @@ h1.head {
 	padding: 0;
 	margin: 0;
 	text-align: center;
-	border: .2em solid black;		/*genre declaration in small box*/
+	border: .1em solid black;		/*genre declaration in small box*/
 	background-color: pink;
 	float: right;
 	clear: left;
@@ -41,7 +41,7 @@ h1.head {
 		position: relative;
 		float: left;					/*big screen setup*/
 		background-color: orange;
-		border:.2em solid black;
+		border:.1em solid black;
 		width: 30%;
 	}
 }
@@ -51,7 +51,7 @@ h1.head {
 		position: relative;
 		float: left;					/*medium screen setup*/
 		background-color: orange;
-		border:.2em solid black;
+		border:.1em solid black;
 		width: 45%;
 	}
 	.box3 {
@@ -64,7 +64,7 @@ h1.head {
 		position: relative;
 		float: left;					/*small screen setup*/
 		background-color: orange;
-		border:.2em solid black;
+		border:.1em solid black;
 		width: 90%;
 	}
 } 
